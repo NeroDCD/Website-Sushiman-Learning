@@ -84,6 +84,10 @@
   background: var(--secondary-color);
   border-radius: 64px;
   cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.popular-foods__button:hover {
+  background-color: var(--black-400);
 }
 .popular-foods__button img {
   width: 14px;
