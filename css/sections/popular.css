@@ -43,6 +43,7 @@
   font-weight: 300px;
   line-height: 25px;
   font-family: var(--plus-jakarta-sans);
+
   color: var(--color-white);
   cursor: pointer;
 }
