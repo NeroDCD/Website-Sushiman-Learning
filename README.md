@@ -25,6 +25,7 @@ This tutorial helped me grasp the following concepts:
 - Adjusted the primary color of the landing page
 - Replaced the background with my own assets
 - Added custom hover effects
+- Implemented a mobile menu toggle
 
 These changes were made to enhance my understanding and improve the overall design of the project.
 
